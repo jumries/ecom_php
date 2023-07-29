@@ -83,7 +83,7 @@
                             icon: 'success',
                             title: response,
                             showConfirmButton: false,
-                            timer: 1500
+                            timer: 1400
                           })
                       }
 
